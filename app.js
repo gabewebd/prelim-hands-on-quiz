@@ -1,3 +1,5 @@
+// Velasquez, Gabrielle Ainshley L.    WD-302 
+
 const calc = require('./calculation');
 
 // app.js
